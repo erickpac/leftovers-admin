@@ -1,0 +1,13 @@
+{
+  "global": {
+    "hello": "Hola Mundo!"
+  },
+  "/home": {
+    "metadata": {
+      "title": "Inicio"
+    },
+    "page": {
+      "deployNow": "Desplegar ahora"
+    }
+  }
+}
