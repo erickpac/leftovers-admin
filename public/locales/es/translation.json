@@ -1,0 +1,33 @@
+{
+  "global": {
+    "error": {
+      "title": "Error",
+      "message": "Ocurrió un error"
+    },
+    "success": {
+      "title": "Éxito",
+      "message": "Operación completada con éxito"
+    },
+    "footer": {
+      "text": "Este es el pie de página"
+    }
+  },
+  "home": {
+    "page": {
+      "title": "Página de Inicio"
+    },
+    "metadata": {
+      "title": "Página de Inicio",
+      "description": "Esta es la página de inicio"
+    }
+  },
+  "users": {
+    "page": {
+      "title": "Página de Usuarios"
+    },
+    "metadata": {
+      "title": "Página de Usuarios",
+      "description": "Esta es la página de usuarios"
+    }
+  }
+}

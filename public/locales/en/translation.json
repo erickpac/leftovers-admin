@@ -1,0 +1,33 @@
+{
+  "global": {
+    "error": {
+      "title": "Error",
+      "message": "An error occurred"
+    },
+    "success": {
+      "title": "Success",
+      "message": "Operation completed successfully"
+    },
+    "footer": {
+      "text": "This is the footer"
+    }
+  },
+  "home": {
+    "page": {
+      "title": "Home Page"
+    },
+    "metadata": {
+      "title": "Home Page",
+      "description": "This is the home page"
+    }
+  },
+  "users": {
+    "page": {
+      "title": "Users Page"
+    },
+    "metadata": {
+      "title": "Users Page",
+      "description": "This is the users page"
+    }
+  }
+}
