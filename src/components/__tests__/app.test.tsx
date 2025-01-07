@@ -1,6 +1,6 @@
 import { render } from "@testing-library/react";
 import { screen } from "@testing-library/dom";
-import App from "../app";
+import App from "@/components/app";
 
 describe("App", () => {
   it("renders App component", () => {
