@@ -12,22 +12,12 @@
       "text": "Este es el pie de página"
     }
   },
-  "home": {
-    "page": {
+  "pages": {
+    "home": {
       "title": "Página de Inicio"
     },
-    "metadata": {
-      "title": "Página de Inicio",
-      "description": "Esta es la página de inicio"
-    }
-  },
-  "users": {
-    "page": {
+    "users": {
       "title": "Página de Usuarios"
-    },
-    "metadata": {
-      "title": "Página de Usuarios",
-      "description": "Esta es la página de usuarios"
     }
   }
 }
