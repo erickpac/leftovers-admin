@@ -14,7 +14,7 @@
   },
   "pages": {
     "home": {
-      "title": "Home Page"
+      "title": "Hello, Tailwind with Vite + React + TypeScript!"
     },
     "users": {
       "title": "Users Page"
